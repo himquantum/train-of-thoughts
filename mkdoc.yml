@@ -1,0 +1,45 @@
+site_name: Train of Thoughts
+site_author: Himanshu Kumar
+site_description: A philosophical and scientific journey
+repo_url: https://github.com/himquantum/train-of-thoughts
+repo_name: himquantum/train-of-thoughts
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Chapters:
+      - Chapter 1: Chapter1.md
+      - Chapter 2: Chapter2.md
+      - Chapter 3: Chapter3.md
+      - Chapter 4: Chapter4.md
+      - Chapter 5: Chapter5.md
+      - Chapter 6: Chapter6.md
+      - Chapter 7: Chapter7.md
+      - Chapter 8: Chapter8.md
+      - Chapter 9: Chapter9.md
+      - Chapter 10: Chapter10.md
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - codehilite
+  - pymdownx.superfences
+  - pymdownx.details
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/himquantum
