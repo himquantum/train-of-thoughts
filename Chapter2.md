@@ -1,4 +1,4 @@
-Chapter 2: Philosophical Physicist  
+# Chapter 2: Philosophical Physicist  
 "Where are you going, Professor?"
 
 Dr. Kent was slightly startled by the sudden question that echoed in his ears. It was the familiar voice, soft yet resonant, posed a query that seemed to pierce through the train of his thoughts. "  
