@@ -63,4 +63,4 @@ In that carriage suspended in time and ideas, their conversation evolved into an
 
 As the train propelled them forward, the dialogue between Isabella and Harrison became a bridge—a bridge that connected not just two minds, but also two worlds. It was a tribute to the human spirit's relentless pursuit of understanding, whether painted on a canvas or deciphered from equations. 
 
-[← Chapter 1](chapter1.md) | [🏠 Home](index.md) | [→ Chapter 3](chapter3.md)
+[← Chapter 1](Chapter1.md) | [🏠 Home](index.md) | [→ Chapter 3](Chapter3.md)
