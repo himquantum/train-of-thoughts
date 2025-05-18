@@ -1,4 +1,4 @@
-\# Chapter 5 : The invention of God
+# Chapter 5 : The invention of God
 
 "The train jolted to a sudden, screeching halt, causing passengers to gasp and clutch their seats. The once serene journey was now filled with a palpable sense of fear. Dr. Harrison Kent and Isabella Amore exchanged anxious glances as an announcement crackled through the speakers.
 
